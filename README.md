@@ -6,5 +6,4 @@ I mostly work as a plugin developer for WordPress and ClassicPress.
 My main work is making WooCommerce, Classic Commerce and bbPress plugins. And providing user support for them. Yay! \
 No, they're not on Github. But I am... Check out my plugins on my website: [ajdg.solutions](https://ajdg.solutions/?mtm_campaign=github). Maybe even download or buy one. Thanks!
 
-- 🙋🏼‍♂️ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github).
-- 📫 Where to reach me? On my [links page](https://www.arnan.me/links.html?mtm_campaign=github) ofcourse.
+🙋🏼‍♂️ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github).

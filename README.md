@@ -1,10 +1,11 @@
-### Hello! I am Arnan de Gans. 
+### Hello! I am Arnan de Gans.
 
-I am the AdRotate guy. I do PHP/HTML/MySQL things. \
-I mostly work as a plugin developer for WordPress and ClassicPress.
+I do PHP/HTML/MySQL things with a little JavaScript on the side. \
 
-My main work is making WooCommerce, Classic Commerce and bbPress plugins. And providing user support for them. Yay! \
-No, they're not on Github. But I am... Check out my plugins on my website: [ajdg.solutions](https://ajdg.solutions/?mtm_campaign=github). Maybe even download or buy one. Thanks!
+I mostly make WooCommerce, Classic Commerce and bbPress plugins - Yay! \
+Check out my plugins on my website: [ajdg.solutions](https://ajdg.solutions/?mtm_campaign=github).
 
-🙋🏼‍♂️ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github). \
-🤑 Please support my work and [donate](https://www.arnan.me/donate.html?mtm_campaign=github).
+I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github). \
+[Please support my work](https://www.arnan.me/donate.html?mtm_campaign=github)!
+
+~ Thanks!

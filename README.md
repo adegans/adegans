@@ -1,6 +1,6 @@
 ### Hello! I am Arnan de Gans.
 
-I do PHP/HTML/MySQL things with a little JavaScript on the side. \
+I do PHP/HTML/MySQL things with a little JavaScript on the side.
 
 I mostly make WooCommerce, Classic Commerce and bbPress plugins - Yay! \
 Check out my plugins on my website: [ajdg.solutions](https://ajdg.solutions/?mtm_campaign=github).

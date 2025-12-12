@@ -13,5 +13,5 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 ---
 
 ### My latest blog posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!-- feed start -->
+<!-- feed end -->

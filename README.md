@@ -14,4 +14,9 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 12 December - [AdRotate 5.17.1 – Probably the last update of the year](https://ajdg.solutions/blog/adrotate-5-17-1-probably-the-last-update-of-the-year/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-1-probably-the-last-update-of-the-year&mtm_source=RSS2&mtm_medium=feed)
+- 11 December - [Payment Gateway Stats 3.1 – More accurate stats](https://ajdg.solutions/blog/payment-gateway-stats-3-1-more-accurate-stats/?mtm_campaign=feed_click&mtm_kwd=payment-gateway-stats-3-1-more-accurate-stats&mtm_source=RSS2&mtm_medium=feed)
+- 11 December - [AdRotate Pro 5.26 – Improvements for reports and schedules](https://ajdg.solutions/blog/adrotate-pro-5-26-improvements-for-reports-and-schedules/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-26-improvements-for-reports-and-schedules&mtm_source=RSS2&mtm_medium=feed)
+- 7 December - [Escape from Duckov](https://www.arnan.me/blog/escape-from-duckov)
+- 6 December - [The Goosle is cooked](https://www.arnan.me/blog/the-goosle-is-cooked)
 <!-- feed end -->

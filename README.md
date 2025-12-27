@@ -14,6 +14,7 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 26 December - [AdRotate 5.17.2 – Introducing GooseUp](https://ajdg.solutions/blog/adrotate-5-17-2-introducing-gooseup/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-2-introducing-gooseup&mtm_source=RSS2&mtm_medium=feed)
 - 24 December - [Merry Christmas](https://www.arnan.me/blog/merry-christmas)
 - 18 December - [I made a birdfeeder](https://www.arnan.me/blog/i-made-a-birdfeeder)
 - 12 December - [AdRotate 5.17.1 – Probably the last update of the year](https://ajdg.solutions/blog/adrotate-5-17-1-probably-the-last-update-of-the-year/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-1-probably-the-last-update-of-the-year&mtm_source=RSS2&mtm_medium=feed)
@@ -23,5 +24,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 6 December - [The Goosle is cooked](https://www.arnan.me/blog/the-goosle-is-cooked)
 - 4 December - [What it would take for me to come back to WordPress](https://www.arnan.me/blog/what-it-would-take-for-me-to-come-back-to-wordpress)
 - 2 December - [AdRotate Pro 5.25.1 – Missing IP Address for some users](https://ajdg.solutions/blog/adrotate-pro-5-25-1-missing-ip-address-for-some-users/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-25-1-missing-ip-address-for-some-users&mtm_source=RSS2&mtm_medium=feed)
-- 29 November - [AdRotate Pro 5.25 – An all new dashboard](https://ajdg.solutions/blog/adrotate-pro-5-25-an-all-new-dashboard/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-25-an-all-new-dashboard&mtm_source=RSS2&mtm_medium=feed)
 <!-- feed end -->

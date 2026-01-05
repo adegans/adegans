@@ -14,6 +14,7 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 5 January - [AdRotate Pro 5.26.1 – Introducing Auto-Updates](https://ajdg.solutions/blog/adrotate-pro-5-26-1-introducing-auto-updates/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-26-1-introducing-auto-updates&mtm_source=RSS2&mtm_medium=feed)
 - 30 December - [The world we live in](https://www.arnan.me/blog/the-world-we-live-in)
 - 26 December - [AdRotate 5.17.2 – Introducing GooseUp](https://ajdg.solutions/blog/adrotate-5-17-2-introducing-gooseup/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-2-introducing-gooseup&mtm_source=RSS2&mtm_medium=feed)
 - 24 December - [Merry Christmas](https://www.arnan.me/blog/merry-christmas)
@@ -23,5 +24,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 11 December - [AdRotate Pro 5.26 – Improvements for reports and schedules](https://ajdg.solutions/blog/adrotate-pro-5-26-improvements-for-reports-and-schedules/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-26-improvements-for-reports-and-schedules&mtm_source=RSS2&mtm_medium=feed)
 - 7 December - [Escape from Duckov](https://www.arnan.me/blog/escape-from-duckov)
 - 6 December - [The Goosle is cooked](https://www.arnan.me/blog/the-goosle-is-cooked)
-- 4 December - [What it would take for me to come back to WordPress](https://www.arnan.me/blog/what-it-would-take-for-me-to-come-back-to-wordpress)
 <!-- feed end -->

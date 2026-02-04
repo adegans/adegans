@@ -14,6 +14,7 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 3 February - [The short end of the stick](https://www.arnan.me/blog/short-end-of-the-stick)
 - 1 February - [Deserted roads in Baja California](https://www.arnan.me/blog/desert-roads)
 - 15 January - [On the road in Mexico](https://www.arnan.me/blog/on-the-road-in-mexico)
 - 15 January - [AdRotate Pro 5.26.2 – Bug fix for GooseUp support](https://ajdg.solutions/blog/adrotate-pro-5-26-2-bug-fix-for-gooseup-support/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-26-2-bug-fix-for-gooseup-support&mtm_source=RSS2&mtm_medium=feed)
@@ -23,5 +24,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 30 December - [The world we live in](https://www.arnan.me/blog/the-world-we-live-in)
 - 26 December - [AdRotate 5.17.2 – Introducing GooseUp](https://ajdg.solutions/blog/adrotate-5-17-2-introducing-gooseup/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-2-introducing-gooseup&mtm_source=RSS2&mtm_medium=feed)
 - 24 December - [Merry Christmas](https://www.arnan.me/blog/merry-christmas)
-- 18 December - [I made a birdfeeder](https://www.arnan.me/blog/i-made-a-birdfeeder)
 <!-- feed end -->

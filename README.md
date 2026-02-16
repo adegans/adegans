@@ -13,6 +13,7 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 15 February - [Thinking about the future](https://www.arnan.me/blog/thinking-about-the-future)
 - 9 February - [The humanoid goose](https://www.arnan.me/blog/the-humanoid-goose)
 - 8 February - [AdRotate 5.17.3 – First update of the year!](https://ajdg.solutions/blog/adrotate-5-17-3-first-update-of-the-year/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-3-first-update-of-the-year&mtm_source=RSS2&mtm_medium=feed)
 - 7 February - [AdRotate Pro 5.27 – Bug fixes and dashboard improvements](https://ajdg.solutions/blog/adrotate-pro-5-27-bug-fixes-and-dashboard-improvements/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-27-bug-fixes-and-dashboard-improvements&mtm_source=RSS2&mtm_medium=feed)
@@ -22,5 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 15 January - [AdRotate Pro 5.26.2 – Bug fix for GooseUp support](https://ajdg.solutions/blog/adrotate-pro-5-26-2-bug-fix-for-gooseup-support/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-26-2-bug-fix-for-gooseup-support&mtm_source=RSS2&mtm_medium=feed)
 - 10 January - [iPad cameras are so unnecessary](https://www.arnan.me/blog/the-ipad-camera)
 - 5 January - [First post of the year](https://www.arnan.me/blog/first-post-of-the-year)
-- 5 January - [AdRotate Pro 5.26.1 – Introducing Auto-Updates](https://ajdg.solutions/blog/adrotate-pro-5-26-1-introducing-auto-updates/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-26-1-introducing-auto-updates&mtm_source=RSS2&mtm_medium=feed)
 <!-- feed end -->

@@ -13,6 +13,7 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 7 March - [Mastering Ad Management: The Power of Dynamic Groups in AdRotate Pro](https://ajdg.solutions/blog/mastering-ad-management-the-power-of-dynamic-groups-in-adrotate-pro/?mtm_campaign=feed_click&mtm_kwd=mastering-ad-management-the-power-of-dynamic-groups-in-adrotate-pro&mtm_source=RSS2&mtm_medium=feed)
 - 5 March - [Writing tools](https://www.arnan.me/blog/writing-tools-dilemma)
 - 24 February - [The atrocious state of office software](https://www.arnan.me/blog/the-atrocious-state-of-office-software)
 - 21 February - [Why AdRotate Pro Beats “AI-Powered” Ad Managers](https://ajdg.solutions/blog/why-adrotate-pro-beats-ai-powered-ad-managers/?mtm_campaign=feed_click&mtm_kwd=why-adrotate-pro-beats-ai-powered-ad-managers&mtm_source=RSS2&mtm_medium=feed)
@@ -22,5 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 12 February - [Why ClassicPress is the Strategic Alternative to WordPress](https://ajdg.solutions/blog/classicpress-vs-wordpress-strategic-comparison/?mtm_campaign=feed_click&mtm_kwd=classicpress-vs-wordpress-strategic-comparison&mtm_source=RSS2&mtm_medium=feed)
 - 9 February - [The humanoid goose](https://www.arnan.me/blog/the-humanoid-goose)
 - 8 February - [AdRotate 5.17.3 – First update of the year!](https://ajdg.solutions/blog/adrotate-5-17-3-first-update-of-the-year/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-3-first-update-of-the-year&mtm_source=RSS2&mtm_medium=feed)
-- 7 February - [AdRotate Pro 5.27 – Bug fixes and dashboard improvements](https://ajdg.solutions/blog/adrotate-pro-5-27-bug-fixes-and-dashboard-improvements/?mtm_campaign=feed_click&mtm_kwd=adrotate-pro-5-27-bug-fixes-and-dashboard-improvements&mtm_source=RSS2&mtm_medium=feed)
 <!-- feed end -->

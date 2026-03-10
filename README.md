@@ -13,6 +13,8 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 9 March - [AdRotate 5.17.4 – Maintenance update!](https://ajdg.solutions/blog/adrotate-5-17-4-maintenance-update/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-4-maintenance-update&mtm_source=RSS2&mtm_medium=feed)
+- 9 March - [Streamlining Plugin Updates with GooseUp for WordPress](https://ajdg.solutions/blog/streamlining-plugin-updates-with-gooseup-for-wordpress/?mtm_campaign=feed_click&mtm_kwd=streamlining-plugin-updates-with-gooseup-for-wordpress&mtm_source=RSS2&mtm_medium=feed)
 - 7 March - [Mastering Ad Management: The Power of Dynamic Groups in AdRotate Pro](https://ajdg.solutions/blog/mastering-ad-management-the-power-of-dynamic-groups-in-adrotate-pro/?mtm_campaign=feed_click&mtm_kwd=mastering-ad-management-the-power-of-dynamic-groups-in-adrotate-pro&mtm_source=RSS2&mtm_medium=feed)
 - 5 March - [Writing tools](https://www.arnan.me/blog/writing-tools-dilemma)
 - 24 February - [The atrocious state of office software](https://www.arnan.me/blog/the-atrocious-state-of-office-software)
@@ -21,6 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 18 February - [Phantom phone syndrome](https://www.arnan.me/blog/phantom-phone-syndrome)
 - 15 February - [Thinking about the future](https://www.arnan.me/blog/thinking-about-the-future)
 - 12 February - [Why ClassicPress is the Strategic Alternative to WordPress](https://ajdg.solutions/blog/classicpress-vs-wordpress-strategic-comparison/?mtm_campaign=feed_click&mtm_kwd=classicpress-vs-wordpress-strategic-comparison&mtm_source=RSS2&mtm_medium=feed)
-- 9 February - [The humanoid goose](https://www.arnan.me/blog/the-humanoid-goose)
-- 8 February - [AdRotate 5.17.3 – First update of the year!](https://ajdg.solutions/blog/adrotate-5-17-3-first-update-of-the-year/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-3-first-update-of-the-year&mtm_source=RSS2&mtm_medium=feed)
 <!-- feed end -->

@@ -16,7 +16,7 @@ jobs:
           format: '- ${day} ${monthlong} - [${title}](${url})'
           max_entry: 10
           url: |
-            https://www.arnan.me/feed/page:feed.xml
+            https://www.arnan.me/feed/
             https://ajdg.solutions/feed/
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master

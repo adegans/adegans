@@ -13,6 +13,8 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 1 April - [GooseUp 1.0.3 – Maintenance release](https://ajdg.solutions/blog/gooseup-1-0-3-maintenance-release/?mtm_campaign=feed_click&mtm_kwd=gooseup-1-0-3-maintenance-release&mtm_source=RSS2&mtm_medium=feed)
+- 1 April - [Google Gemini is a big fat liar!](https://www.arnan.me/google-gemini-is-a-big-fat-liar)
 - 26 March - [Re-re-launching my website!](https://www.arnan.me/re-re-launching-my-website)
 - 20 March - [Why AdRotate Pro is the Right Choice for 2026](https://ajdg.solutions/blog/why-adrotate-pro-is-the-right-choice-for-2026/?mtm_campaign=feed_click&mtm_kwd=why-adrotate-pro-is-the-right-choice-for-2026&mtm_source=RSS2&mtm_medium=feed)
 - 17 March - [Cleaning up my Github repositories](https://www.arnan.me/cleaning-up-my-github-repositories)
@@ -21,6 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 13 March - [It's not about the children](https://www.arnan.me/its-not-about-the-children)
 - 12 March - [Unlocking Local Revenue: The Power of Geo-Targeting in AdRotate Pro](https://ajdg.solutions/blog/unlocking-local-revenue-the-power-of-geo-targeting-in-adrotate-pro/?mtm_campaign=feed_click&mtm_kwd=unlocking-local-revenue-the-power-of-geo-targeting-in-adrotate-pro&mtm_source=RSS2&mtm_medium=feed)
 - 12 March - [Crossing the Mexican wilderness](https://www.arnan.me/crossing-the-wilderness)
-- 10 March - [Why do I even bother](https://www.arnan.me/why-even-bother)
-- 9 March - [AdRotate 5.17.4 – Maintenance update!](https://ajdg.solutions/blog/adrotate-5-17-4-maintenance-update/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-4-maintenance-update&mtm_source=RSS2&mtm_medium=feed)
 <!-- feed end -->

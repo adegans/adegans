@@ -13,6 +13,7 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 12 April - [I'm a sensible linux user now](https://www.arnan.me/im-a-sensible-linux-user-now)
 - 10 April - [A post scheduler for Pureblog CMS](https://www.arnan.me/a-post-scheduler-for-pureblog-cms)
 - 7 April - [All hail GooseTOR!](https://www.arnan.me/all-hail-goosetor)
 - 7 April - [Is a life without subscriptions still possible?](https://www.arnan.me/is-a-life-without-subscriptions-still-possible)
@@ -22,5 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 1 April - [Google Gemini is a big fat liar!](https://www.arnan.me/google-gemini-is-a-big-fat-liar)
 - 26 March - [Re-re-launching my website!](https://www.arnan.me/re-re-launching-my-website)
 - 20 March - [Why AdRotate Pro is the Right Choice for 2026](https://ajdg.solutions/blog/why-adrotate-pro-is-the-right-choice-for-2026/?mtm_campaign=feed_click&mtm_kwd=why-adrotate-pro-is-the-right-choice-for-2026&mtm_source=Other&mtm_medium=feed)
-- 17 March - [Cleaning up my Github repositories](https://www.arnan.me/cleaning-up-my-github-repositories)
 <!-- feed end -->

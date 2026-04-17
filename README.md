@@ -13,6 +13,7 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 16 April - [Set It and Forget It: Ad Scheduling in AdRotate Pro](https://ajdg.solutions/blog/set-it-and-forget-it-ad-scheduling-in-adrotate-pro/?mtm_campaign=feed_click&mtm_kwd=set-it-and-forget-it-ad-scheduling-in-adrotate-pro&mtm_source=Other&mtm_medium=feed)
 - 12 April - [I'm a sensible linux user now](https://www.arnan.me/im-a-sensible-linux-user-now)
 - 10 April - [A post scheduler for Pureblog CMS](https://www.arnan.me/a-post-scheduler-for-pureblog-cms)
 - 7 April - [All hail GooseTOR!](https://www.arnan.me/all-hail-goosetor)
@@ -22,5 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 1 April - [GooseUp 1.0.3 – Maintenance release](https://ajdg.solutions/blog/gooseup-1-0-3-maintenance-release/?mtm_campaign=feed_click&mtm_kwd=gooseup-1-0-3-maintenance-release&mtm_source=Other&mtm_medium=feed)
 - 1 April - [Google Gemini is a big fat liar!](https://www.arnan.me/google-gemini-is-a-big-fat-liar)
 - 26 March - [Re-re-launching my website!](https://www.arnan.me/re-re-launching-my-website)
-- 20 March - [Why AdRotate Pro is the Right Choice for 2026](https://ajdg.solutions/blog/why-adrotate-pro-is-the-right-choice-for-2026/?mtm_campaign=feed_click&mtm_kwd=why-adrotate-pro-is-the-right-choice-for-2026&mtm_source=Other&mtm_medium=feed)
 <!-- feed end -->

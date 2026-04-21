@@ -13,6 +13,8 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 21 April - [Future purchases no longer require an account](https://ajdg.solutions/blog/future-purchases-no-longer-require-an-account/?mtm_campaign=feed_click&mtm_kwd=future-purchases-no-longer-require-an-account&mtm_source=Other&mtm_medium=feed)
+- 20 April - [Purgatory](https://www.arnan.me/purgatory)
 - 16 April - [Set It and Forget It: Ad Scheduling in AdRotate Pro](https://ajdg.solutions/blog/set-it-and-forget-it-ad-scheduling-in-adrotate-pro/?mtm_campaign=feed_click&mtm_kwd=set-it-and-forget-it-ad-scheduling-in-adrotate-pro&mtm_source=Other&mtm_medium=feed)
 - 12 April - [I'm a sensible linux user now](https://www.arnan.me/im-a-sensible-linux-user-now)
 - 10 April - [A post scheduler for Pureblog CMS](https://www.arnan.me/a-post-scheduler-for-pureblog-cms)
@@ -21,6 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 6 April - [AdRotate 5.17.5 – Update available!](https://ajdg.solutions/blog/adrotate-5-17-5-update-available/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-5-update-available&mtm_source=Other&mtm_medium=feed)
 - 3 April - [Perfecting the Mobile Experience: Device-Specific Ad Delivery](https://ajdg.solutions/blog/perfecting-the-mobile-experience-device-specific-ad-delivery/?mtm_campaign=feed_click&mtm_kwd=perfecting-the-mobile-experience-device-specific-ad-delivery&mtm_source=Other&mtm_medium=feed)
 - 1 April - [GooseUp 1.0.3 – Maintenance release](https://ajdg.solutions/blog/gooseup-1-0-3-maintenance-release/?mtm_campaign=feed_click&mtm_kwd=gooseup-1-0-3-maintenance-release&mtm_source=Other&mtm_medium=feed)
-- 1 April - [Google Gemini is a big fat liar!](https://www.arnan.me/google-gemini-is-a-big-fat-liar)
-- 26 March - [Re-re-launching my website!](https://www.arnan.me/re-re-launching-my-website)
 <!-- feed end -->

@@ -13,6 +13,8 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 25 April - [Website updates – New theme, new layout, same website!](https://ajdg.solutions/blog/website-updates-new-theme-new-layout-same-website/?mtm_campaign=feed_click&mtm_kwd=website-updates-new-theme-new-layout-same-website&mtm_source=Other&mtm_medium=feed)
+- 24 April - [Adding mDNS/Bonjour support for Samba and Jellyfin](https://www.arnan.me/adding-mdnsbonjour-support-for-samba-and-jellyfin)
 - 21 April - [Future purchases no longer require an account](https://ajdg.solutions/blog/future-purchases-no-longer-require-an-account/?mtm_campaign=feed_click&mtm_kwd=future-purchases-no-longer-require-an-account&mtm_source=Other&mtm_medium=feed)
 - 20 April - [Purgatory](https://www.arnan.me/purgatory)
 - 16 April - [Set It and Forget It: Ad Scheduling in AdRotate Pro](https://ajdg.solutions/blog/set-it-and-forget-it-ad-scheduling-in-adrotate-pro/?mtm_campaign=feed_click&mtm_kwd=set-it-and-forget-it-ad-scheduling-in-adrotate-pro&mtm_source=Other&mtm_medium=feed)
@@ -21,6 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 7 April - [All hail GooseTOR!](https://www.arnan.me/all-hail-goosetor)
 - 7 April - [Is a life without subscriptions still possible?](https://www.arnan.me/is-a-life-without-subscriptions-still-possible)
 - 6 April - [AdRotate 5.17.5 – Update available!](https://ajdg.solutions/blog/adrotate-5-17-5-update-available/?mtm_campaign=feed_click&mtm_kwd=adrotate-5-17-5-update-available&mtm_source=Other&mtm_medium=feed)
-- 3 April - [Perfecting the Mobile Experience: Device-Specific Ad Delivery](https://ajdg.solutions/blog/perfecting-the-mobile-experience-device-specific-ad-delivery/?mtm_campaign=feed_click&mtm_kwd=perfecting-the-mobile-experience-device-specific-ad-delivery&mtm_source=Other&mtm_medium=feed)
-- 1 April - [GooseUp 1.0.3 – Maintenance release](https://ajdg.solutions/blog/gooseup-1-0-3-maintenance-release/?mtm_campaign=feed_click&mtm_kwd=gooseup-1-0-3-maintenance-release&mtm_source=Other&mtm_medium=feed)
 <!-- feed end -->

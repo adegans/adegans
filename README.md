@@ -13,6 +13,7 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 9 May - [I bought a new motorcycle](https://www.arnan.me/i-bought-a-new-motorcycle)
 - 4 May - [To the future and beyond!](https://www.arnan.me/to-the-future-and-beyond)
 - 30 April - [The Invisible Shield: Why Regular Plugin Updates Are Your Site’s Best Friend](https://ajdg.solutions/blog/the-invisible-shield-why-regular-plugin-updates-are-your-sites-best-friend/?mtm_campaign=feed_click&mtm_kwd=the-invisible-shield-why-regular-plugin-updates-are-your-sites-best-friend&mtm_source=Other&mtm_medium=feed)
 - 25 April - [Website updates – New theme, new layout, same website!](https://ajdg.solutions/blog/website-updates-new-theme-new-layout-same-website/?mtm_campaign=feed_click&mtm_kwd=website-updates-new-theme-new-layout-same-website&mtm_source=Other&mtm_medium=feed)
@@ -22,5 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 16 April - [Set It and Forget It: Ad Scheduling in AdRotate Pro](https://ajdg.solutions/blog/set-it-and-forget-it-ad-scheduling-in-adrotate-pro/?mtm_campaign=feed_click&mtm_kwd=set-it-and-forget-it-ad-scheduling-in-adrotate-pro&mtm_source=Other&mtm_medium=feed)
 - 12 April - [I'm a sensible linux user now](https://www.arnan.me/im-a-sensible-linux-user-now)
 - 10 April - [A post scheduler for Pureblog CMS](https://www.arnan.me/a-post-scheduler-for-pureblog-cms)
-- 7 April - [All hail GooseTOR!](https://www.arnan.me/all-hail-goosetor)
 <!-- feed end -->

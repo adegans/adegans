@@ -13,6 +13,8 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 15 May - [Rewiring an entire appartment](https://www.arnan.me/rewiring-an-entire-appartment)
+- 15 May - [The internet hates blogs](https://ajdg.solutions/blog/the-internet-hates-blogs/?mtm_campaign=feed_click&mtm_kwd=the-internet-hates-blogs&mtm_source=Other&mtm_medium=feed)
 - 11 May - [The floor exploded](https://www.arnan.me/the-floor-exploded)
 - 9 May - [I bought a new motorcycle](https://www.arnan.me/i-bought-a-new-motorcycle)
 - 4 May - [To the future and beyond!](https://www.arnan.me/to-the-future-and-beyond)
@@ -21,6 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 24 April - [Adding mDNS/Bonjour support for Samba and Jellyfin](https://www.arnan.me/adding-mdnsbonjour-support-for-samba-and-jellyfin)
 - 21 April - [Future purchases no longer require an account](https://ajdg.solutions/blog/future-purchases-no-longer-require-an-account/?mtm_campaign=feed_click&mtm_kwd=future-purchases-no-longer-require-an-account&mtm_source=Other&mtm_medium=feed)
 - 20 April - [Purgatory](https://www.arnan.me/purgatory)
-- 16 April - [Set It and Forget It: Ad Scheduling in AdRotate Pro](https://ajdg.solutions/blog/set-it-and-forget-it-ad-scheduling-in-adrotate-pro/?mtm_campaign=feed_click&mtm_kwd=set-it-and-forget-it-ad-scheduling-in-adrotate-pro&mtm_source=Other&mtm_medium=feed)
-- 12 April - [I'm a sensible linux user now](https://www.arnan.me/im-a-sensible-linux-user-now)
 <!-- feed end -->

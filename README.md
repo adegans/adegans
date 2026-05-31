@@ -13,6 +13,7 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 
 ### My latest blog posts
 <!-- feed start -->
+- 31 May - [I'm de-Googling my life](https://www.arnan.me/im-de-googling-my-life)
 - 28 May - [But we're not open yet](https://www.arnan.me/but-were-not-open-yet)
 - 28 May - [Use browser caching and compression to speed up your website](https://www.arnan.me/use-browser-caching-and-compression-to-speed-up-your-website)
 - 22 May - [Installing the first lights!](https://www.arnan.me/installing-the-first-lights)
@@ -22,5 +23,4 @@ I have a better profile on [arnan.me](https://www.arnan.me/?mtm_campaign=github)
 - 9 May - [I bought a new motorcycle](https://www.arnan.me/i-bought-a-new-motorcycle)
 - 4 May - [To the future and beyond!](https://www.arnan.me/to-the-future-and-beyond)
 - 24 April - [Adding mDNS/Bonjour support for Samba and Jellyfin](https://www.arnan.me/adding-mdnsbonjour-support-for-samba-and-jellyfin)
-- 20 April - [Purgatory](https://www.arnan.me/purgatory)
 <!-- feed end -->

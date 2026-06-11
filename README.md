@@ -13,6 +13,7 @@ Check out my profile and blog on [arnan.me](https://www.arnan.me/?mtm_campaign=g
 
 ### My latest blog posts
 <!-- feed start -->
+- 10 June - [The most convenient piece-of-shit I ever bought](https://www.arnan.me/the-most-convenient-piece-of-shit-i-ever-bought)
 - 7 June - [The first bedroom is painted](https://www.arnan.me/the-first-bedroom-is-painted)
 - 31 May - [I'm de-Googling my life](https://www.arnan.me/im-de-googling-my-life)
 - 28 May - [But we're not open yet](https://www.arnan.me/but-were-not-open-yet)
@@ -22,5 +23,4 @@ Check out my profile and blog on [arnan.me](https://www.arnan.me/?mtm_campaign=g
 - 15 May - [Rewiring an entire appartment](https://www.arnan.me/rewiring-an-entire-appartment)
 - 11 May - [The floor exploded](https://www.arnan.me/the-floor-exploded)
 - 9 May - [I bought a new motorcycle](https://www.arnan.me/i-bought-a-new-motorcycle)
-- 4 May - [To the future and beyond!](https://www.arnan.me/to-the-future-and-beyond)
 <!-- feed end -->

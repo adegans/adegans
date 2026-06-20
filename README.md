@@ -13,6 +13,7 @@ Check out my profile and blog on [arnan.me](https://www.arnan.me/?mtm_campaign=g
 
 ### My latest blog posts
 <!-- feed start -->
+- 20 June - [20 years of construction](https://www.arnan.me/20-years-of-construction)
 - 13 June - [Off-grid housing](https://www.arnan.me/off-grid-housing)
 - 10 June - [The most convenient piece-of-shit I ever bought](https://www.arnan.me/the-most-convenient-piece-of-shit-i-ever-bought)
 - 7 June - [The first bedroom is painted](https://www.arnan.me/the-first-bedroom-is-painted)
@@ -22,5 +23,4 @@ Check out my profile and blog on [arnan.me](https://www.arnan.me/?mtm_campaign=g
 - 22 May - [Installing the first lights!](https://www.arnan.me/installing-the-first-lights)
 - 17 May - [Breakerbox](https://www.arnan.me/breakerbox)
 - 15 May - [Rewiring an entire appartment](https://www.arnan.me/rewiring-an-entire-appartment)
-- 11 May - [The floor exploded](https://www.arnan.me/the-floor-exploded)
 <!-- feed end -->

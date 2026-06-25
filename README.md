@@ -13,6 +13,7 @@ Check out my profile and blog on [arnan.me](https://www.arnan.me/?mtm_campaign=g
 
 ### My latest blog posts
 <!-- feed start -->
+- 24 June - [The most convoluted hack](https://www.arnan.me/the-most-convoluted-hack)
 - 20 June - [20 years of construction](https://www.arnan.me/20-years-of-construction)
 - 13 June - [Off-grid housing](https://www.arnan.me/off-grid-housing)
 - 10 June - [The most convenient piece-of-shit I ever bought](https://www.arnan.me/the-most-convenient-piece-of-shit-i-ever-bought)
@@ -22,5 +23,4 @@ Check out my profile and blog on [arnan.me](https://www.arnan.me/?mtm_campaign=g
 - 28 May - [Use browser caching and compression to speed up your website](https://www.arnan.me/use-browser-caching-and-compression-to-speed-up-your-website)
 - 22 May - [Installing the first lights!](https://www.arnan.me/installing-the-first-lights)
 - 17 May - [Breakerbox](https://www.arnan.me/breakerbox)
-- 15 May - [Rewiring an entire appartment](https://www.arnan.me/rewiring-an-entire-appartment)
 <!-- feed end -->

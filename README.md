@@ -13,6 +13,7 @@ Check out my profile and blog on [arnan.me](https://www.arnan.me/?mtm_campaign=g
 
 ### My latest blog posts
 <!-- feed start -->
+- 21 July - [The rain season has started](https://www.arnan.me/the-rain-season-has-started)
 - 17 July - [Fixing the water](https://www.arnan.me/fixing-the-water)
 - 4 July - [What is that smell?](https://www.arnan.me/what-is-that-smell)
 - 27 June - [I should probably move](https://www.arnan.me/i-should-probably-move)
@@ -22,5 +23,4 @@ Check out my profile and blog on [arnan.me](https://www.arnan.me/?mtm_campaign=g
 - 10 June - [The most convenient piece-of-shit I ever bought](https://www.arnan.me/the-most-convenient-piece-of-shit-i-ever-bought)
 - 7 June - [The first bedroom is painted](https://www.arnan.me/the-first-bedroom-is-painted)
 - 31 May - [I'm de-Googling my life](https://www.arnan.me/im-de-googling-my-life)
-- 28 May - [But we're not open yet](https://www.arnan.me/but-were-not-open-yet)
 <!-- feed end -->
